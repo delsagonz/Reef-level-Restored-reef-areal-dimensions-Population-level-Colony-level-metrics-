@@ -1,6 +1,6 @@
 # Reef-level-Restored-reef-areal-dimensions-Population-level-Colony-level-metrics-
 Used for national fish and wildlife foundations (NFWF) report includes RRAD, eco footprint, abundance, area, mortality, and retention rates
-# Metric 3 & 4 Results Section Final Graphs
+# Restoration Results Section Final Graphs
 This directory contains all R scripts used to generate final visualizations for Metric 3 and 4. Scripts are organized by workspace. Each folder includes the core plotting code and will indicate any subsequent files you need to load.
 
 ---
